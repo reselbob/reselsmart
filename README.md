@@ -1,5 +1,8 @@
 # reselsmart
-A project that demonstrates how to integrate ChatGPT and Open AI in order to observe conversations on a custom Discord server,
+A project that demonstrates how to integrate ChatGPT and Open AI in order to observe conversations on a custom Discord server.
+
+![Screenshot 2023-11-13 at 9 25 16 AM](https://github.com/reselbob/reselsmart/assets/1110569/1870c96a-a82f-4c66-a8a4-ed693e8c8358)
+
 
 # Requirements
 
