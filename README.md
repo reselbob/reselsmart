@@ -22,10 +22,10 @@ OPENAI_KEY=sk-<YOUR_OPENAI-KEY>
 
 # What you need to know how to do
 
-- Set up a Discord server.
+- You need to know how to set up a Discord server.
 
 View [this video](https://youtu.be/5tijQ-PjQw8) to lear how to set up a Discord server.
-- How to write a Discord bot in Node.js.
+- You need to know how to set up how to write a Discord bot in Node.js.
 
 Watch [this video](https://youtu.be/EUlnKW6Yy94) to learn how to write a Discord bot in Node.js:
 
@@ -40,3 +40,5 @@ npm install
 ```bash 
 node index.js
 ```
+
+Once `index.js` is up and running the bot will show up in your Discord server.
