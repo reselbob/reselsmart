@@ -17,7 +17,7 @@ A project that demonstrates how to integrate ChatGPT and Open AI in order to obs
 ```bash
 DISCORD_TOKEN=<YOUR_DISCORD_TOKEN>
 OPENAI_ORG=<YOUR_OPENAI_ORG_KEY>
-OPENAI_KEY=sk-<YOUR_OPENAI-KEY>
+OPENAI_KEY=<YOUR_OPENAI-KEY>
 ```
 
 # What you need to know how to do
